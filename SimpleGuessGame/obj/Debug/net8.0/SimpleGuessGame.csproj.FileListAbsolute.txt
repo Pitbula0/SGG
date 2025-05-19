@@ -1,0 +1,17 @@
+D:\VSProjects\SimpleGuessGame\SimpleGuessGame\bin\Debug\net8.0\SimpleGuessGame.exe
+D:\VSProjects\SimpleGuessGame\SimpleGuessGame\bin\Debug\net8.0\SimpleGuessGame.deps.json
+D:\VSProjects\SimpleGuessGame\SimpleGuessGame\bin\Debug\net8.0\SimpleGuessGame.runtimeconfig.json
+D:\VSProjects\SimpleGuessGame\SimpleGuessGame\bin\Debug\net8.0\SimpleGuessGame.dll
+D:\VSProjects\SimpleGuessGame\SimpleGuessGame\bin\Debug\net8.0\SimpleGuessGame.pdb
+D:\VSProjects\SimpleGuessGame\SimpleGuessGame\bin\Debug\net8.0\Spectre.Console.dll
+D:\VSProjects\SimpleGuessGame\SimpleGuessGame\obj\Debug\net8.0\SimpleGuessGame.csproj.AssemblyReference.cache
+D:\VSProjects\SimpleGuessGame\SimpleGuessGame\obj\Debug\net8.0\SimpleGuessGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSProjects\SimpleGuessGame\SimpleGuessGame\obj\Debug\net8.0\SimpleGuessGame.AssemblyInfoInputs.cache
+D:\VSProjects\SimpleGuessGame\SimpleGuessGame\obj\Debug\net8.0\SimpleGuessGame.AssemblyInfo.cs
+D:\VSProjects\SimpleGuessGame\SimpleGuessGame\obj\Debug\net8.0\SimpleGuessGame.csproj.CoreCompileInputs.cache
+D:\VSProjects\SimpleGuessGame\SimpleGuessGame\obj\Debug\net8.0\SimpleGu.1C450ABE.Up2Date
+D:\VSProjects\SimpleGuessGame\SimpleGuessGame\obj\Debug\net8.0\SimpleGuessGame.dll
+D:\VSProjects\SimpleGuessGame\SimpleGuessGame\obj\Debug\net8.0\refint\SimpleGuessGame.dll
+D:\VSProjects\SimpleGuessGame\SimpleGuessGame\obj\Debug\net8.0\SimpleGuessGame.pdb
+D:\VSProjects\SimpleGuessGame\SimpleGuessGame\obj\Debug\net8.0\SimpleGuessGame.genruntimeconfig.cache
+D:\VSProjects\SimpleGuessGame\SimpleGuessGame\obj\Debug\net8.0\ref\SimpleGuessGame.dll
